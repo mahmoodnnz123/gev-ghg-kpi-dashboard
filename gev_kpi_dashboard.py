@@ -1,10 +1,5 @@
 """
 GE Vernova — GHG Emissions Trend & Sustainability KPI Dashboard
-Project 1 of 2
-
-Matin Bahadori, 2025
-M.Sc. Umwelttechnik — BTU Cottbus-Senftenberg
-
 Data source : GE Vernova Sustainability Report 2025, p. 97
 Standard    : GHG Protocol (market-based Scope 2)
 Target      : Carbon neutrality by 2030 (Scope 1+2)
